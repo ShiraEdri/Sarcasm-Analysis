@@ -306,22 +306,6 @@ LocalApp
 
 ---
 
-# Project Structure
-
-```
-.
-├── LocalApp.java
-├── Manager.java
-├── Worker.java
-├── Review.java
-├── AWS.java
-├── sentimentAnalysisHandler.java
-├── namedEntityRecognitionHandler.java
-└── pom.xml
-```
-
----
-
 # Main Components
 
 | Component | Responsibility |
