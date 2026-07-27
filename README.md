@@ -139,18 +139,6 @@ The system automatically distributes review analysis across multiple Worker inst
 
 ---
 
-# Technologies
-
-- Java
-- Amazon EC2
-- Amazon S3
-- Amazon SQS
-- AWS SDK
-- Multithreading (ThreadPool)
-- Stanford CoreNLP
-
----
-
 # System Architecture
 
 ```
